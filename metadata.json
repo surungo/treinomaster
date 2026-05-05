@@ -1,0 +1,6 @@
+{
+  "name": "Treino Master",
+  "description": "Cronômetro progressivo personalizável com anúncios de voz, metas de tempo e suporte a rounds/intervalos para treinos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
